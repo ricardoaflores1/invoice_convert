@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../DDFiles/2EmailTemplate"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "InvoiceLookUp"
+	}
+}
